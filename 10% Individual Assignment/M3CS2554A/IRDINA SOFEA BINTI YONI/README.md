@@ -6,7 +6,7 @@
 
 **Lecturer**: Shahadan bin Saad
 
-**Youtube Link**: 
+**Youtube Link**: https://youtu.be/XZgFlqfZd44
 
 **Source Code**: https://github.com/2024644534/2603-ITT440/commit/6506984649f8c633737b6c8859bcd2b9928f7dfb
 
